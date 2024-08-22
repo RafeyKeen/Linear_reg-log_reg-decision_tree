@@ -1,1 +1,2 @@
-# Linear_reg-log_reg-decision_tree
+# Basic_ML_models
+
